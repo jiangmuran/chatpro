@@ -6,6 +6,9 @@
 
 - `docs/development.md` 开发文档与环境说明
 - `docs/layout.md` 页面布局与主题规范
+- `docs/themes-chatgpt.md` ChatGPT 风格主题提示词与控件风格
+- `docs/themes-soft.md` 柔和主题提示词与控件风格
+- `docs/themes-miku.md` 初音未来主题提示词与控件风格
 - `docs/api.md` 接口文档
 - `docs/architecture.md` 项目架构与数据流
 - `docs/scenarios.md` 场景说明与交互流程
