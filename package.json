@@ -1,0 +1,17 @@
+{
+  "name": "chatpro",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "server"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev -w apps/web",
+    "dev:admin": "npm run dev -w apps/admin",
+    "dev:server": "npm run dev -w server",
+    "build": "npm run build -ws",
+    "lint": "npm run lint -ws"
+  }
+}
